@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello World 👋
+Hi my name is Bill Sweeney I am from Panama City, Panama and currently live in Austin, TX. I am a aspiring software engineer transistioning from Water Resources Engineering field to Software / Web Development. I enjoy coding and finding solutions to problems using code. 
 
 <!--
 **panamabilly/panamabilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align=center>Hello World, it's me!</h3>
 
 [![yourUserName's GitHub stats](https://github-readme-stats.vercel.app/api?username=panamabilly)](https://github.com/panamabilly/github-readme-stats)
 
