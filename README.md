@@ -1,5 +1,5 @@
+![Bill Sweeney-TitleCard-500px](https://user-images.githubusercontent.com/93820113/149536678-f21d80ad-4469-4b59-814d-dd4dd9e4e044.png)
 
-![Bill Sweeney-TitleCard Github](https://user-images.githubusercontent.com/93820113/149535904-ae380d85-7720-446d-910a-9bee669b8bd6.png)
 ### Hello World 👋
 Hi my name is Bill Sweeney I am from Panama City, Panama and currently live in Austin, TX. I am a aspiring software engineer transistioning from Water Resources Engineering field to Software / Web Development. I enjoy coding and finding solutions to problems using code. 
 
