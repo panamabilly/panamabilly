@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panamabilly&layout=compact)](https://github.com/panamabilly/github-readme-stats)
 [![yourUserName's GitHub stats](https://github-readme-stats.vercel.app/api?username=panamabilly)](https://github.com/panamabilly/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panamabilly&layout=compact)](https://github.com/panamabilly/github-readme-stats)
+
