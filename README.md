@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![yourUserName's GitHub stats] (https://github-readme-stats.vercel.app/api?username=panamabilly)](https://github.com/panamabilly/github-readme-stats)<img align="center"/>
+[![yourUserName's GitHub stats] (https://github-readme-stats.vercel.app/api?username=panamabilly)](https://github.com/panamabilly/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panamabilly&layout=compact)]<img align="center"/>(https://github.com/panamabilly/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panamabilly&layout=compact)](https://github.com/panamabilly/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=panamabilly.panamabilly)<img align="center"/>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=panamabilly.panamabilly)
